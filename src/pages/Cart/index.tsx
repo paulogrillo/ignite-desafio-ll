@@ -57,7 +57,7 @@ const Cart = (): JSX.Element => {
         <tbody>
           <tr data-testid="product">
             <td>
-              <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg" alt="Tênis de Caminhada Leve Confortável" />
+              <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg" alt="Tênis de Caminhada Leve Confortável" />
             </td>
             <td>
               <strong>Tênis de Caminhada Leve Confortável</strong>
